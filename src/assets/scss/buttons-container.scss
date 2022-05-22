@@ -13,7 +13,7 @@
         }
 
         &:hover {
-            background-color: #f90;
+            background-color: $accentColor;
             color: #fff;
         }
 
@@ -27,7 +27,7 @@
         }
 
         &.__isLoading {
-            background-color: #f90;
+            background-color: $accentColor;
             color: #fff;
 
             .loading-icon {
